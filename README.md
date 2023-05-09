@@ -1,5 +1,3 @@
-<a href="https://app.daily.dev/flabroo"><img src="https://api.daily.dev/devcards/b5d3dff9824246b29a30a469dbbe7739.png?r=82c" width="400" alt="Fairul Izwan's Dev Card"/></a>
-
 # 💫 About Me:
 👋 Greetings!<br><br>👨‍🎓 I have recently graduated from Le Wagon Web Development bootcamp. Together with my team members, we have developed two web applications - WhereWorks and Cyclee.<br><br>🎒 Working as a Teacher Assistant in Le Wagon, guiding students (future software developers) through the bootcamp.<br><br>💼 Open to work in junior backend and fullstack roles.<br><br>👨‍💻 Learning React.js & Tailwind.
 
@@ -13,6 +11,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=flabroo&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=flabroo&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=flabroo&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<a href="https://app.daily.dev/flabroo"><img src="https://api.daily.dev/devcards/b5d3dff9824246b29a30a469dbbe7739.png?r=82c" width="400" alt="Fairul Izwan's Dev Card"/></a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
