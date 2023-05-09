@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=flabroo&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=flabroo&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="https://app.daily.dev/flabroo"><img src="https://github.com/flabroo/flabroo/devcard.svg" width="400" alt="Fairul Izwan's Dev Card"/></a>
+<a href="https://app.daily.dev/flabroo"><img src="https://github.com/flabroo/flabroo/blob/main/devcard.svg" width="400" alt="Fairul Izwan's Dev Card"/></a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
