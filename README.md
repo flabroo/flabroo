@@ -3,7 +3,8 @@
 
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fairul-izwan) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230b66c2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/fairul-izwan)
+[![Website](https://img.shields.io/badge/Portfolio-%233a5a40?style=for-the-badge&logo=microsoftedge&logoColor=white)](https://fairulizwan.dev/)
 
 ## 💻 Tech Toolbox
 
@@ -27,14 +28,12 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=flabroo&theme=algolia&hide_border=false&include_all_commits=true&count_private=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flabroo&theme=algolia&hide_border=false">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flabroo&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  <a href="https://app.daily.dev/flabroo"><img src="https://github.com/flabroo/flabroo/blob/main/devcard.svg" width="400" alt="Fairul Izwan's Dev Card"/></a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=flabroo&theme=algolia&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=flabroo&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=flabroo&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<a href="https://app.daily.dev/flabroo"><img src="https://github.com/flabroo/flabroo/blob/main/devcard.svg" width="400" alt="Fairul Izwan's Dev Card"/></a>
-
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
