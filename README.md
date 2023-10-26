@@ -6,10 +6,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fairul-izwan) 
 
 # 💻 Tech Stack
+![Rails](https://img.shields.io/badge/Ruby%20on%20Rails-%23c60200?style=for-the-badge&logo=ruby%20on%20rails)
+![Flask](https://img.shields.io/badge/flask-%233faabf?style=for-the-badge&logo=flask)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237510f0?style=for-the-badge&logo=bootstrap&logoColor=white)
 <div align="center">
-  ![Rails](https://img.shields.io/badge/Ruby%20on%20Rails-%23c60200?style=for-the-badge&logo=ruby%20on%20rails)
-  ![Flask](https://img.shields.io/badge/flask-%233faabf?style=for-the-badge&logo=flask)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237510f0?style=for-the-badge&logo=bootstrap&logoColor=white)
 </div>
 <div align="center">
   ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
