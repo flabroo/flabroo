@@ -25,6 +25,10 @@
 
   
 ## 📊 GitHub Stats
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=flabroo&theme=algolia&hide_border=false&include_all_commits=true&count_private=true">
+</div>
+
 ![](https://github-readme-stats.vercel.app/api?username=flabroo&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=flabroo&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=flabroo&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
